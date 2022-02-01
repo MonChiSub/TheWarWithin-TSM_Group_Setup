@@ -7,6 +7,8 @@ If you have issues while importing, do a "/reload" or "/script ReloadUI();". Che
 
 If you need a quick video (No sound) of how to import / setup the TSM from scratch, [click here](https://youtu.be/-iwthyf1_o0).
 
+If you need the WoW TBC (The Burning Crusade) TSM4 groups, [click here](https://github.com/MonChiSub/TBC-TSM_Group_Setup).
+
 > 01/02/2022 Changes
 > - Removed single export file due to the export being too big and causing errors.
 > - Added individual group exports, due to TSM4 Errors
