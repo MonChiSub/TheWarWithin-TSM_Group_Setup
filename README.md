@@ -5,6 +5,8 @@ Setup is used by streamer [StudenAlbatroz](https://www.twitch.tv/studenalbatroz)
 
 If you have issues while importing, do a "/reload" or "/script ReloadUI();". Check if the group that caused the error was added properly.
 
+If you need a quick video (No sound) of how to import / setup the TSM from scratch, [click here](https://youtu.be/-iwthyf1_o0).
+
 > 01/02/2022 Changes
 > - Removed single export file due to the export being too big and causing errors.
 > - Added individual group exports, due to TSM4 Errors
