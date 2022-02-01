@@ -3,6 +3,8 @@
 TSM4 Group Setup made by MonChiSub#0001
 Setup is used by streamer [StudenAlbatroz](https://www.twitch.tv/studenalbatroz), due to popular request, I have published my setup for the whole community to use for free. 
 
+If you have issues while importing, do a "/reload" or "/console reloadui()". Check if the group that caused the error was added properly.
+
 > 01/02/2022 Changes
 > - Removed single export file due to the export being too big and causing errors.
 > - Added individual group exports, due to TSM4 Errors
