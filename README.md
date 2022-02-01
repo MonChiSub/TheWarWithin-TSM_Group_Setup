@@ -1,7 +1,7 @@
 # World of Warcraft - Shadowlands TSM4 Groups
 
 TSM4 Group Setup made by MonChiSub#0001
-Setup is used by streamer [StudenAlbatroz](https://www.twitch.tv/studenalbatroz), I have published my groups for the whole community to use freely.
+Setup is used by streamer [StudenAlbatroz](https://www.twitch.tv/studenalbatroz), due to popular request, I have published my setup for the whole community to use for free. However, do not steal the content for your own personal gain, this export took a long time to build up. :)
 
 > 01/02/2022 Changes
 > - Removed single export file due to the export being too big and causing errors.
