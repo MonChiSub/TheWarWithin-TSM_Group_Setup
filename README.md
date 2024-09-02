@@ -9,6 +9,11 @@ If you need a quick video (No sound) of how to import / setup the TSM from scrat
 
 If you need the WoW TBC (The Burning Crusade) TSM4 groups, [click here](https://github.com/MonChiSub/TBC-TSM_Group_Setup).
 
+> 02/09/2024 Changes
+> - Spread XMOG Group to prevent game memory crashes when adding/moving/removing from xmog group
+> - Corrected 1 pattern to be in pattern group, was for some reason in xmog
+> - TBC - Work to add Dragonflight / War Within stuff
+
 > 01/02/2022 Changes
 > - Removed single export file due to the export being too big and causing errors.
 > - Added individual group exports, due to TSM4 Errors
