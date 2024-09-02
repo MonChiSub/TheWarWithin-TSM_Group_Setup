@@ -1,6 +1,6 @@
 # World of Warcraft - Shadowlands TSM4 Groups
 
-TSM4 Group Setup made by MonChiSub#0001
+TSM4 Group Setup made by MonChSub
 Setup is used by streamer [StudenAlbatroz](https://www.twitch.tv/studenalbatroz), due to popular request, I have published my setup for the whole community to use for free. 
 
 If you have issues while importing, do a "/reload" or "/script ReloadUI();". Check if the group that caused the error was added properly.
