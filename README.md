@@ -11,9 +11,20 @@ If you need a quick video (No sound) of how to import / setup the TSM from scrat
 
 If you need the WoW TBC (The Burning Crusade) TSM4 groups, [click here](https://github.com/MonChiSub/TBC-TSM_Group_Setup).
 
+> 03/09/2024 Changes
+> - Added TWW Items
+> - Added Dragonflight Items
+> - Added Naxx Crafts/Patterns
+> - Added ZG Crafts/Patterns
+> - Added many materials / consumables
+> - Moved some items out of unobtainable as they are now obtainable (May be some still there that can be obtained)
+> - Many enchants added
+
 > 02/09/2024 Changes
 > - Spread XMOG Group to prevent game memory crashes when adding/moving/removing from xmog group
 > - Corrected 1 pattern to be in pattern group, was for some reason in xmog
+> - Removing further invalid items from other groups
+> - Merging Shadowlands groups to legacy in prep for adding new war within items
 > - TBC - Work to add Dragonflight / War Within stuff
 
 > 01/02/2022 Changes
