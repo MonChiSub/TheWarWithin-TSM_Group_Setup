@@ -14,6 +14,8 @@ If you need the WoW TBC (The Burning Crusade) TSM4 groups, [click here](https://
 > 04/09/2024 Changes
 > - Added all level 1 & level 25 versions of TWW battle pets
 > - Split battle pet groups to prevent future game crashes
+> - Added new DMF Trinkets
+> - Moved more items around to diff groups
 > - idk what else i did but i did a lot xd
 
 > 03/09/2024 Changes
