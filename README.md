@@ -1,13 +1,36 @@
 # World of Warcraft - Shadowlands TSM4 Groups
 
-TSM4 Group Setup made by MonChiSub#0001
+TSM4 Group Setup made by MonChSub
+
 Setup is used by streamer [StudenAlbatroz](https://www.twitch.tv/studenalbatroz), due to popular request, I have published my setup for the whole community to use for free. 
+
 
 If you have issues while importing, do a "/reload" or "/script ReloadUI();". Check if the group that caused the error was added properly.
 
 If you need a quick video (No sound) of how to import / setup the TSM from scratch, [click here](https://youtu.be/-iwthyf1_o0).
 
 If you need the WoW TBC (The Burning Crusade) TSM4 groups, [click here](https://github.com/MonChiSub/TBC-TSM_Group_Setup).
+
+> 04/09/2024 Changes
+> - Added all level 1 & level 25 versions of TWW battle pets
+> - Split battle pet groups to prevent future game crashes
+> - idk what else i did but i did a lot xd
+
+> 03/09/2024 Changes
+> - Added TWW Items
+> - Added Dragonflight Items
+> - Added Naxx Crafts/Patterns
+> - Added ZG Crafts/Patterns
+> - Added many materials / consumables
+> - Moved some items out of unobtainable as they are now obtainable (May be some still there that can be obtained)
+> - Many enchants added
+
+> 02/09/2024 Changes
+> - Spread XMOG Group to prevent game memory crashes when adding/moving/removing from xmog group
+> - Corrected 1 pattern to be in pattern group, was for some reason in xmog
+> - Removing further invalid items from other groups
+> - Merging Shadowlands groups to legacy in prep for adding new war within items
+> - TBC - Work to add Dragonflight / War Within stuff
 
 > 01/02/2022 Changes
 > - Removed single export file due to the export being too big and causing errors.
