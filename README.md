@@ -9,8 +9,6 @@ If you have issues while importing, do a "/reload" or "/script ReloadUI();". Che
 
 If you need a quick video (No sound) of how to import / setup the TSM from scratch, [click here](https://youtu.be/-iwthyf1_o0).
 
-If you need the WoW TBC (The Burning Crusade) TSM4 groups, [click here](https://github.com/MonChiSub/TBC-TSM_Group_Setup).
-
 > 04/09/2024 Changes
 > - Added all level 1 & level 25 versions of TWW battle pets
 > - Split battle pet groups to prevent future game crashes
