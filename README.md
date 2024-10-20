@@ -11,6 +11,10 @@ If you need a quick video (No sound) of how to import / setup the TSM from scrat
 
 # Changes to the Setup
 
+> 20/10/2024 Changes
+> - Added more missing items
+> - Moved now obtainable items out of unobtainables into their intended groups
+
 > 05/10/2024 Changes
 > - Added some missing items
 > - Moved incorrectly grouped items to their intended groups (Some items may still be in the wrong group, slowly sorting)
