@@ -11,6 +11,18 @@ If you need a quick video (No sound) of how to import / setup the TSM from scrat
 
 # Changes to the Setup
 
+> 16/11/2024 Changes
+> - Simplifying operation min/max/normal prices
+> - Min price now uses an average of just DBMarket and DBRegionMarketAvg, removing DBHistorical / DBRegionHistorical
+> - Max price now uses just DBRegionMarketAvg instead of an average of DBRegionMarketAvg,DBRegionHistorical, and DBRegionSaleAvg
+> - Normal price now uses just DBRegionMarketAvg instead of an average of DBRegionMarketAvg,DBRegionHistorical, and DBRegionSaleAvg
+> - Lowered the min price of some operations by 5 to 10 percent, such as transmog since there were some complaints from people (Mostly ArgentDawn players lol)
+> - Higher Max price set for xmog and patterns now that they just use DBRegionMarketAvg
+> - Higher normal price of some operations such as Consumables, materials (region ah stuff), since if there are none available, it should be higher value.
+> - Set bid percentage to 100% on all operations so there is just a buyout option (Who on earth bids nowadays anyway...)
+> - Set XMOG operation to 12h post duration, down from 24h
+> - Added some missing items to groups (There are probs more, WIP)
+
 > 20/10/2024 Changes
 > - Added more missing items
 > - Moved now obtainable items out of unobtainables into their intended groups
