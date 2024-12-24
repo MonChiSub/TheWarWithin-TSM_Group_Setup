@@ -1,4 +1,4 @@
-# World of Warcraft - Shadowlands TSM4 Groups
+# World of Warcraft - The War Within TSM4 Groups
 
 TSM4 Group Setup made by MonChSub
 
