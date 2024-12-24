@@ -11,6 +11,11 @@ If you need a quick video (No sound) of how to import / setup the TSM from scrat
 
 # Changes to the Setup
 
+> 24/12/2024 Changes
+> - A few operations still had undercut set to 1s, now changed to not undercut anything anymore. Last posted is first bought, so no need to undercut, ever.
+> - Added a few TWW Recipes which were missing
+> - Many other things over the past month, mostly item adjustments in groups.
+
 > 16/11/2024 Changes
 > - Simplifying operation min/max/normal prices
 > - Min price now uses an average of just DBMarket and DBRegionMarketAvg, removing DBHistorical / DBRegionHistorical
