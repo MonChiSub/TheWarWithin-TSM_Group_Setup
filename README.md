@@ -11,6 +11,9 @@ If you need a quick video (No sound) of how to import / setup the TSM from scrat
 
 # Changes to the Setup
 
+> 03/01/2025 Changes
+> - Added 3 missing items to other groups
+
 > 24/12/2024 Changes
 > - A few operations still had undercut set to 1s, now changed to not undercut anything anymore. Last posted is first bought, so no need to undercut, ever.
 > - Added a few TWW Recipes which were missing
