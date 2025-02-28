@@ -11,6 +11,14 @@ If you need a quick video (No sound) of how to import / setup the TSM from scrat
 
 # Changes to the Setup
 
+> 28/02/2025 Changes
+> - Adding 11.1 Items including BoEs
+> - Added a lot of missing patterns
+> - Added missing toys
+> - Added Karazhan king loot table to groups
+> - Added missing materials and misc items
+> - Added many more things...
+
 > 03/01/2025 Changes
 > - Added 3 missing items to other groups
 
