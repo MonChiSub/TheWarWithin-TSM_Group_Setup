@@ -11,6 +11,10 @@ If you need a quick video (No sound) of how to import / setup the TSM from scrat
 
 # Changes to the Setup
 
+> 06/03/2025 Changes
+> - Added alchemy boe trinkets from outland as diff ilvls
+> - Added missing patterns
+
 > 28/02/2025 Changes
 > - Adding 11.1 Items including BoEs
 > - Added a lot of missing patterns
