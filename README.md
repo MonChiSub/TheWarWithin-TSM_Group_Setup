@@ -11,6 +11,17 @@ If you need a quick video (No sound) of how to import / setup the TSM from scrat
 
 # Changes to the Setup
 
+> 24/03/2025 to 31/03/2025 Changes
+> - Split profession crafts to their own groups
+> - Added a better crafting operation and assigned to each
+> - Sorted all Enchants, Kits, Gems, and Professions into expansion specific sub-groups
+> - Specific location crafts for professions have their own sub-group, further improvement on above
+> - Lowered normal price string to closely align to region price, should prevent very unrealistic pricing when you're the only posted
+> - Added 11.1 battle pets, was missing. L1 to L25 added accordingly
+> - TWW Crafting added to new profession craft groups under their own expac for neatness
+> - Moved some incorrectly grouped items to their newly intended groups
+> - Loads more changes... Huge revamp overall
+
 > 06/03/2025 Changes
 > - Added alchemy boe trinkets from outland as diff ilvls
 > - Added missing patterns
