@@ -11,6 +11,12 @@ If you need a quick video (No sound) of how to import / setup the TSM from scrat
 
 # Changes to the Setup
 
+> 07/04/2025 Changes
+> - Changing crafting to use first operator, crafting then dbregion/dbmarket
+> - Added a lot more missing Dragon Flight materials... Those ranks are killing me
+> - Added Grump battle pet, lvl 1 and 25 all qualities
+> - Added "Security DELTA Data Access Card" - Thanks Rikke for reporting it missing
+
 > 24/03/2025 to 31/03/2025 Changes
 > - Split profession crafts to their own groups
 > - Added a better crafting operation and assigned to each
