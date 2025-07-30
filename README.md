@@ -11,6 +11,33 @@ If you need a quick video (No sound) of how to import / setup the TSM from scrat
 
 # Changes to the Setup
 
+> 30/07/2025 Changes
+> - Added Molten Lava Ball (DF Rare Toy)
+> - Added Dinn's Drum (DF Rare Toy)
+> - Added the three Undermine BoU mounts
+> - Added ZM Strange Goop (Currency/Item for mount)
+> - Added Tess's Peacebloom (Worgen loot only Toy)
+> - Added B.B.F. Fist (JC Toy)
+> - Added Date Simulation Modulator (Toy)
+> - Added Crumbling Sinstone (Shadowlands on-use for currency)
+> - Added S.E.A.T. (Engineering toy)
+> - Added Malfunctioning Stealthman 54 (Engineering toy)
+> - Added Hearthstone Game Table (Promotional toy)
+> - Added some Lattice items from ZM (Currency/Item for mounts)
+> - Added Empty Magma Shell
+> - Added Defective Doomsday Device (Engineering toy)
+> - Added Dented Can (Engineering toy)
+> - Added missing Lamplight & 1 or 2 undermine specific world drop boes
+> - Added Void-Scarred Scorpid (BP L1 & L25)
+> - Added Void-Scarred Tallstrider Chick (BP L1 & L25)
+> - Added Eye of Chaos (BP L1 & L25)
+> - Added Living Rose (BP L1 & L25)
+> - Added Helpful Workshop Bot (BP L1 & L25)
+> - Added Goggles (BP L1 & L25)
+> - Added Crackleroar (BP L1 & L25)
+> - Added Proper Parrot (BP L1 & L25)
+> - Adding other items not specified above, because yes yes there were a few more
+
 > 07/04/2025 Changes
 > - Changing crafting to use first operator, crafting then dbregion/dbmarket
 > - Added a lot more missing Dragon Flight materials... Those ranks are killing me
