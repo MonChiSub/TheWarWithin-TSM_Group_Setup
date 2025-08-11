@@ -11,6 +11,18 @@ If you need a quick video (No sound) of how to import / setup the TSM from scrat
 
 # Changes to the Setup
 
+> 11/08/2025 Changes
+> - Added 11.2 BoEs
+> - Corrected Undermine BoE list
+> - Added Lil'Kaz BP to correct groups
+> - Corrected JC Prof equip list
+> - Added 11.2 healing potion
+> - Added 11.2 invis pot
+> - Added 11.2 contract rep items
+> - Added 11.2 Vantus runes
+> - Added 11.2 Battle Pets (Caged / L1 / L25)
+> - Added 11.2 raid boes
+
 > 30/07/2025 Changes
 > - Added Molten Lava Ball (DF Rare Toy)
 > - Added Dinn's Drum (DF Rare Toy)
