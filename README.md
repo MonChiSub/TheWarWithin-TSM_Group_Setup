@@ -11,6 +11,18 @@ If you need a quick video (No sound) of how to import / setup the TSM from scrat
 
 # Changes to the Setup
 
+> 05/12/2025 Changes
+> - Added player housing items (Decor, Dye, Pigments)
+> - Added missing patterns & plans
+> - Added a lot of missing consumables (mostly legacy anyway)
+> - Added a lot of junk items to junk group (prevents clutter in add area)
+> - Added missing Nightfallen Items (TWW BoEs)
+> - Added missing Lamplight items (TWW BoEs)
+> - Lowered minprice for some operations from 35% to 30% due to complaints
+> - Lowered normal price for some operations to 100% due to complaints
+> - Lowered max price for some operations, again, due to complaints
+> - A lot of other changes, if I listed all I'd be here for a while
+
 > 11/08/2025 Changes
 > - Added 11.2 BoEs
 > - Corrected Undermine BoE list
